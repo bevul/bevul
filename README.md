@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A139D7&center=true&width=870&height=39&lines=Hello+World%2C+)](https://git.io/typing-svg)
+#### My name is Ekaterina 
+##### I am Software Engineer graduate of The Bonch-Bruevich State University of Telecommunications
+For the past six years I've been gaining knowledge in different tech fields such as desktop and web app engineering, ML, AI and so on
 
-<!--
-**bevul/bevul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python 3 / Java / C / C++ 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java Spring 
+- 📫 How to reach me: https://t.me/bevul 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
