@@ -3,7 +3,7 @@
 ### I am Software Engineer graduate of The Bonch-Bruevich State University of Telecommunications
 For the past six years I've been gaining knowledge in different tech fields such as desktop and web app engineering, ML, AI and so on.
 
-Skills: Python 3 / Java / C / C++ 
+Skills: Python 3 / Java SE / C / C++ 
 
 - 🌱 I’m currently learning Java Spring 
 - 📫 How to reach me: https://t.me/bevul 
